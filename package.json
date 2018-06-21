@@ -1,0 +1,22 @@
+{
+  "name": "dependency-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstrimpel/dependency-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstrimpel/dependency-a/issues"
+  },
+  "homepage": "https://github.com/jstrimpel/dependency-a#readme",
+  "dependencies": {
+    "transitive-dependency": "1.x.x"
+  }
+}
